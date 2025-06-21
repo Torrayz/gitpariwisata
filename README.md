@@ -31,8 +31,3 @@ create database travelkuy;
 mysql -u root -p travelkuy < DB/db_pariwisata.sql
 ```
 
-## Contact Me
-[Facebook](https://www.facebook.com/ir001.id)
-[Instagram](https://www.instagram.com/hjkwz)
-[LinkedIn](https://id.linkedin.com/in/irwan-antonio)
-
