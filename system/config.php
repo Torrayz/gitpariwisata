@@ -4,8 +4,8 @@ session_start();
 //setting database koneksi
 define('DB_HOST', 'localhost'); 
 define('DB_USER', 'root'); 
-define('DB_PASSWD', 'root'); 
-define('DB_NAME', 'travelkuy'); 
+define('DB_PASSWD', '092004'); 
+define('DB_NAME', 'db_pariwisata'); 
 
 $conn  = new mysqli(DB_HOST, DB_USER, DB_PASSWD, DB_NAME);
 
