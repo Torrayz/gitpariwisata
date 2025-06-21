@@ -30,4 +30,3 @@ create database travelkuy;
 ```bash
 mysql -u root -p travelkuy < DB/db_pariwisata.sql
 ```
-
