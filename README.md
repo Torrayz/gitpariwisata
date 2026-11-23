@@ -4,6 +4,17 @@ A modern, full-stack Next.js application for discovering Indonesian travel packa
 
 > Rebuilt from the ground up with Next.js 15, React 19, TypeScript, and Tailwind CSS v4.
 
+## Preview
+
+| Destination Explorer (`/`) | Estimator & Booking (`/destinasi/[slug]`) |
+| :---: | :---: |
+| ![Destination Explorer](docs/screenshots/explorer.png) | ![Trip Estimator & Booking](docs/screenshots/estimator.png) |
+
+<p align="center">
+  <strong>Saved Itinerary Workspace (<code>/rencana</code>)</strong><br />
+  <img src="docs/screenshots/planner.png" alt="Saved Itinerary Workspace" width="88%" />
+</p>
+
 ## Features
 
 - **Destination Explorer (`/`)**: Real-time search across regions, highlights, and provinces; category pills (`Alam & Gunung`, `Bahari & Pulau`, `Budaya & Sejarah`, `Eksplorasi`); budget ceiling filter; and multi-mode sorting.
